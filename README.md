@@ -157,7 +157,8 @@ SQL TABLA
 ![image](https://github.com/user-attachments/assets/69f484de-3bd3-41ab-85aa-cd13a6620af0)
 
 SCALA CONEXION
-![image](https://github.com/user-attachments/assets/150cca52-0a16-459c-9621-6d46dcbb4566)
+![image](https://github.com/user-attachments/assets/214fa2ae-c2de-42ba-a15e-196f3e33e444)
+
 
 
 ---
